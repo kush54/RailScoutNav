@@ -22,8 +22,8 @@ function App() {
       {/* <SampleStation data2={data1} /> */}
       <Mascot />
       {/* <Help /> */}
-      <NotFound />
-      <Error />
+      {/* <NotFound /> */}
+      {/* <Error /> */}
     </div>
   );
 }
